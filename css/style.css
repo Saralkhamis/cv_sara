@@ -170,6 +170,7 @@ main h1 {
 .list-style {
     width: fit-content;
     margin: auto;
+    list-style: none;
 }
 
 .list-style ul {
